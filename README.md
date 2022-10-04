@@ -8,22 +8,23 @@ Here is a link to the to a presentation of the application: [Click Here](https:/
 
 Here is the link via Youtube: [Click Here](https://youtu.be/X-22-g0JWQE)
 
-##Installation
+## Installation
 
 This program requires Sequelize, MySQL2, DotENV, and Express. To install, run "npm i (Package Name)" to install the required package name, and a .env file must be made with your SQL username and password.
 
-##Usage
+## Usage
 
 This program is run from the command line, and has no back end so we use Insomnia to make sure the routes work correctly.
 
-##Built With
+## Built With
 
--js
--mysql2
--sequelize
--dotenv
--express
 
-##Contributing
+* js
+* mysql2
+* sequelize
+* dotenv
+* express
+
+## Contributing
 
 This appilication was made by Jonny Thompson
