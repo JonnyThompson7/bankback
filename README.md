@@ -14,7 +14,7 @@ This program requires Sequelize, MySQL2, DotENV, and Express. To install, run "n
 
 ## Usage
 
-This program is run from the command line, and has no back end so we use Insomnia to make sure the routes work correctly.
+This program is run from the command line, and has no front end so we use Insomnia to make sure the routes work correctly.
 
 ## Built With
 
